@@ -17,14 +17,14 @@ Note: one repo sometimes belongs to multiple categories.
 
 # Supported GitHub orgs
 
-* w3c
-* WICG
-* w3ctag
+* [w3c](https://github.com/w3c)
+* [WICG](https://github.com/WICG)
+* [w3ctag](https://github.com/w3ctag)
 
 Considering:
 
-* immersive-web
-* WebBluetoothCG
+* [immersive-web](https://github.com/immersive-web)
+* [WebBluetoothCG](https://github.com/WebBluetoothCG)
 
 # Things to do
 
