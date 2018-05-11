@@ -42,7 +42,8 @@ const MASTER_TO_GH_PAGES = ['w3c/IndexedDB', 'w3c/IntersectionObserver', 'w3c/lo
 const GH_PAGES = ['w3c/payment-request',
 'w3c/manifest', 'w3c/clreq',
 'w3c/navigation-timing', 'w3c/resource-timing',
-'w3c/hr-time']
+'w3c/hr-time'
+];
 
 const FILE_NOT_INDEX_HTML = ['w3c/wcag21'];
 
