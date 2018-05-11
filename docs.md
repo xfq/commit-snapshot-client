@@ -19,13 +19,14 @@ Note: one repo sometimes belongs to multiple categories.
 
 * [w3c](https://github.com/w3c)
 * [WICG](https://github.com/WICG)
-* [w3ctag](https://github.com/w3ctag)
 
 Considering:
 
+* [w3ctag](https://github.com/w3ctag)
 * [immersive-web](https://github.com/immersive-web)
 * [WebBluetoothCG](https://github.com/WebBluetoothCG)
 
 # Things to do
 
 * Add a feature to Bikeshed/ReSpec that can provide the URL of the current version of the spec
+* Make a browser extension or bookmarklet
