@@ -1,4 +1,4 @@
-# Automatic snapshot generator
+# Automatic snapshot generator client-side version
 
 This repo contains a tool that can provide you:
 
