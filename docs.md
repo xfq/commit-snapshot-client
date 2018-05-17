@@ -12,7 +12,7 @@ Note: one repo sometimes belongs to multiple categories.
 ## ReSpec
 
 * Normal ReSpec spec
-* A repository containing multiple ReSpec specs (example: WCAG 2.1)
+* A repository containing multiple ReSpec specs
 * ReSpec spec that deploys the generated spec (using [Spec Generator](https://github.com/w3c/spec-generator)) to `gh-pages` (example: WAI-ARIA)
 
 # Supported GitHub orgs
